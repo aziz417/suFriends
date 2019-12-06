@@ -2,7 +2,6 @@
     include('conction.php');
     session_start();
 ?>
-
 <html>
 <head>
     <title>Friends</title>
